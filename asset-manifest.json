@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/facedetech/static/css/main.dc4e0a5b.chunk.css",
+    "main.js": "/facedetech/static/js/main.c7390da4.chunk.js",
+    "main.js.map": "/facedetech/static/js/main.c7390da4.chunk.js.map",
+    "runtime~main.js": "/facedetech/static/js/runtime~main.0ce34508.js",
+    "runtime~main.js.map": "/facedetech/static/js/runtime~main.0ce34508.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/facedetech/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.8469c0be.chunk.js": "/facedetech/static/js/2.8469c0be.chunk.js",
+    "static/js/2.8469c0be.chunk.js.map": "/facedetech/static/js/2.8469c0be.chunk.js.map",
+    "index.html": "/facedetech/index.html",
+    "precache-manifest.a59190955f007cd8f5727b648f0ece27.js": "/facedetech/precache-manifest.a59190955f007cd8f5727b648f0ece27.js",
+    "service-worker.js": "/facedetech/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/facedetech/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.dc4e0a5b.chunk.css.map": "/facedetech/static/css/main.dc4e0a5b.chunk.css.map"
+  }
+}
